@@ -4,19 +4,19 @@ Welcome to our GitHub repository for Multilingual Website Categorization using B
 
 ## Project Files:
 
-1. [**Bert_Model**](https://drive.google.com/drive/folders/14RhkZC76XNZEwEVSkYCYgzpAUZGJkj3K?usp=sharing)
+ 1. [**Bert_Model**](https://drive.google.com/drive/folders/14RhkZC76XNZEwEVSkYCYgzpAUZGJkj3K?usp=sharing)
   This folder contains the BERT model fine-tuned for project. Utilising the bert-multilingual-uncased model, it works effectively with 10+ languages to categorize websites accurately. Due to file size limits, I couldn't upload it directly to this repository. Instead, you can access the model through Google Drive.
    
-3. **category_mapping.csv:**
+2. **category_mapping.csv:**
    A CSV file with 50+ categories, including encoded values and their corresponding true labels.
 
-4. **model_training.ipynb:**
+3. **model_training.ipynb:**
    This notebook covers the entire process of training the NLP model. Sections include data loading, model training, and options for training from specific epochs.
 
-5. **model_predictions.ipynb:**
+4. **model_predictions.ipynb:**
    Here, you can find code for predicting website categories using the trained model. We've optimized it for efficiency, including multi-threading to handle large datasets.
 
-6. **Website_Scraping.ipynb:**
+5. **Website_Scraping.ipynb:**
    This notebook focuses on scraping data from websites, which is essential for training the model.
 
 ## Technical Insights:
