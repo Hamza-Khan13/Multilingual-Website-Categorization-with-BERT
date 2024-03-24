@@ -53,4 +53,3 @@ Based on the bert-multilingual-uncased model from the Transformers library, fine
 - pandas: Used for data manipulation, particularly for handling CSV files and dataframes.
 - numpy: Essential for numerical computations and array operations within the training and evaluation process.
 - requests: Employed for making HTTP requests to websites during the web scraping process.
-- These libraries were chosen for their versatility, efficiency, and effectiveness in handling various aspects of the project, from model training to data - preprocessing and evaluation. They form the backbone of our project's functionality and performance.
